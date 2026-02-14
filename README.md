@@ -30,4 +30,4 @@ economic insights through exploratory data analysis.
 - Monthly data helps identify short-term price pressures
 
 ## Status
-Completed (Beginner Data Analysis Project)
+Completed 
